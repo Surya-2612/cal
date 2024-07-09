@@ -1,0 +1,36 @@
+body{
+    background-image: url(wp12568817-the-matrix-4k-wallpapers.jpg);
+    background-size: cover;
+}
+h2{
+    
+    color: rgb(18, 15, 226);
+}
+table{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+ }
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+div{
+        background-color:rgb(70, 126, 93);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-image: url(composition-with-plate-alarm-clock-measuring-tape-colored-background-diet-concept-weight-loss-plan-copy-space.jpg);
+        background-size: cover;
+}
+table{
+    background-image: url();
+        background-size: cover;
+
+
+}
